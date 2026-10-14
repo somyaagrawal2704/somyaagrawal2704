@@ -1,28 +1,105 @@
-<h1 align="center">Hi 👋, I'm Somya Agrawal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hey, I'm Somya Agrawal
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=somyaagrawal2704&label=Profile%20views&color=0e75b6&style=flat" alt="somyaagrawal2704" /> </p>
+### 📊 Exploring the intersection of Business, Marketing & Technology
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somyaagrawal2704" alt="somyaagrawal2704" /></a> </p>
+I'm a curious learner interested in understanding people, solving business problems, and using technology and data to make better decisions.
 
-- 🌱 I’m currently learning **Digital marketing**
+- 🌱 Currently learning **Digital Marketing, Python & MySQL**
+- 📊 Interested in **Data Analytics, Business Strategy & Marketing**
+- 🧩 Exploring **Agile, Excel dashboards & data-driven decision-making**
+- 💡 I enjoy turning ideas and raw data into meaningful insights.
+- 🍳 Fun fact: I make really good food!
 
-- 💬 Ask me about **Agile**
+📫 **Email:** somyaagrawal2704@gmail.com
 
-- 📫 How to reach me **somyaagrawal2704@gmail.com**
+---
 
-- ⚡ Fun fact **i make very good food**
+## 🌐 Let's Connect
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/somya agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somya agrawal" height="30" width="40" /></a>
+  <a href="https://github.com/somyaagrawal2704">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:somyaagrawal2704@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somyaagrawal2704&show_icons=true&locale=en&layout=compact" alt="somyaagrawal2704" /></p>
+## 🛠️ Skills & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somyaagrawal2704&show_icons=true&locale=en" alt="somyaagrawal2704" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&perline=5" alt="Python, MySQL, Git, GitHub and VS Code"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somyaagrawal2704&" alt="somyaagrawal2704" /></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Digital_Marketing-E4405F?style=flat-square" alt="Digital Marketing"/>
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=flat-square" alt="Agile"/>
+  <img src="https://img.shields.io/badge/Data_Analytics-6C63FF?style=flat-square" alt="Data Analytics"/>
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=somyaagrawal2704&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Somya's GitHub statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somyaagrawal2704&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=somyaagrawal2704&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somyaagrawal2704&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution and commit activity graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=somyaagrawal2704&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub trophies and achievements"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+I use my projects to practise new skills, explore ideas, and build practical solutions.
+
+<!--
+After creating your projects, uncomment the cards below
+and replace YOUR_REPO_1 and YOUR_REPO_2 with real repository names.
+
+<p align="left">
+  <a href="https://github.com/somyaagrawal2704/YOUR_REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=somyaagrawal2704&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" alt="Featured project 1"/>
+  </a>
+  <a href="https://github.com/somyaagrawal2704/YOUR_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=somyaagrawal2704&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" alt="Featured project 2"/>
+  </a>
+</p>
+-->
+
+📌 **Coming soon:** Excel dashboards, Python projects, SQL analysis, and digital marketing case studies.
+
+---
+
+## 👀 Profile Visitors
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=somyaagrawal2704&label=Profile%20Views&color=8957e5&style=flat" alt="Profile views"/>
+</p>
+
+---
+
+### ✨ A little progress every day adds up to something great.
+
+*Learning, building, experimenting, and improving — one project at a time.*
